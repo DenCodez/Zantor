@@ -8,7 +8,7 @@ Zantor is *NOT* a malware. It simply just deletes the junk files and caches.
 To use zantor, you need to have python 3 installed, which you can get it from here: https://www.python.org/downloads/
 1. First download the zip file (or clone) by clicking the ```Code``` button.
 2. Then, click **DOWNLOAD ZIP** button (or copy the link and paste it into your terminal).
-3. After that, extract the zip file and run the code by typing the below code in your terminal:-
+3. After that, extract the zip file and run the python file by typing the below code in your terminal:-
    <br><br>
    ```bash
    cd Zantor
