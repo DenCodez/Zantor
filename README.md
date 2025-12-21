@@ -15,3 +15,6 @@ To use zantor, you need to have python 3 installed, which you can get it from he
    python main.py
    ```
 4. Now you can clear your junk files and caches. 🎉
+
+## Updates
+ZantorV1.1 = https://github.com/DenCodez/Zantor/releases/tag/Virus-finder
